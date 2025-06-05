@@ -1,1 +1,1 @@
-# onebuttongame3
+This one button game highlights historical photographs of women working with technology, while at the same time, shining a light on the absurdity of past (and present) paradigms about women's relationship to work with technology. Absurdity is baked into the game because, although all images show work with technology, not all selections result in a "correct" answer. The piece gamifies the recognition of visualizing women's work with technology making it feel as absurd as it feels. 
